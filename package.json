@@ -1,0 +1,22 @@
+{
+  "name": "electrondragqueenproto",
+  "version": "1.0.0",
+  "description": "I need to test Electron drag and drop events in a newer version because a legacy code with an older version of Electron is not caching dataTransfer information on drag events",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scroung720/ElectronDragProto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scroung720/ElectronDragProto/issues"
+  },
+  "homepage": "https://github.com/scroung720/ElectronDragProto#readme",
+  "dependencies": {
+    "electron": "^9.2.0"
+  }
+}
